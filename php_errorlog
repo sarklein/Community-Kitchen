@@ -1,0 +1,30 @@
+[12-Aug-2026 17:59:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uimfsgff5ihxs'@'localhost' (using password: YES) in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php:29
+Stack trace:
+#0 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php(29): mysqli_connect('localhost', 'uimfsgff5ihxs', Object(SensitiveParameterValue), 'dbmdnolbcp5lop')
+#1 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/events.php(23): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php on line 29
+[12-Aug-2026 18:01:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uimfsgff5ihxs'@'localhost' (using password: YES) in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php:29
+Stack trace:
+#0 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php(29): mysqli_connect('localhost', 'uimfsgff5ihxs', Object(SensitiveParameterValue), 'dbmdnolbcp5lop')
+#1 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/events.php(23): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php on line 29
+[12-Aug-2026 18:02:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uimfsgff5ihxs'@'localhost' (using password: YES) in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php:29
+Stack trace:
+#0 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php(29): mysqli_connect('localhost', 'uimfsgff5ihxs', Object(SensitiveParameterValue), 'dbmdnolbcp5lop')
+#1 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/events.php(23): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php on line 29
+[12-Aug-2026 18:02:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uimfsgff5ihxs'@'localhost' (using password: YES) in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php:29
+Stack trace:
+#0 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php(29): mysqli_connect('localhost', 'uimfsgff5ihxs', Object(SensitiveParameterValue), 'dbmdnolbcp5lop')
+#1 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/events.php(23): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php on line 29
+[12-Aug-2026 18:04:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'uimfsgff5ihxs'@'localhost' (using password: YES) in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php:29
+Stack trace:
+#0 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php(29): mysqli_connect('localhost', 'uimfsgff5ihxs', Object(SensitiveParameterValue), 'dbmdnolbcp5lop')
+#1 /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/events.php(23): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/irisy.sg-host.com/public_html/community-kitchen/src/db.php on line 29
